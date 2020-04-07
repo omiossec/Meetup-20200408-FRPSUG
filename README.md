@@ -8,8 +8,5 @@ Il présente les notions essentielles pour comprendre le fonctionnement de GitHu
 
 ## Badges
 
-![Test Deploy](https://github.com/omiossec/Meetup-20200408-FRPSG/workflows/Windows-wks/badge.svg)
+![Test Deploy](https://github.com/omiossec/Meetup-20200408-FRPSG/workflows/docker-Azure-cicd/badge.svg)
 
-![Docker Tests](https://github.com/omiossec/Github_Action_Demo/workflows/docker-wks/badge.svg)
-
-![Linux Tests](https://github.com/omiossec/Github_Action_Demo/workflows/Linux-wks/badge.svg)
