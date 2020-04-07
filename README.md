@@ -1,2 +1,15 @@
-# Meetup-20200408-FRPSUG
-Demo GitHub Actions + PowerShell + Azure Meetup FRPSUG
+# Meetup-20200408-FRPSUG Demo GitHub Actions + PowerShell + Azure Meetup FRPSUG
+
+
+
+
+Ce repository est une introduction à GitHub Actions avec PowerShell. Il sert de support pour le FRPSUG (French PowerShell User Group) et Le Paris PowerShell & DevOps. 
+Il présente les notions essentielles pour comprendre le fonctionnement de GitHub Actions et son utilisation avec PowerShell, Docker et Azure. 
+
+## Badges
+
+![Test Deploy](https://github.com/omiossec/Meetup-20200408-FRPSG/workflows/Windows-wks/badge.svg)
+
+![Docker Tests](https://github.com/omiossec/Github_Action_Demo/workflows/docker-wks/badge.svg)
+
+![Linux Tests](https://github.com/omiossec/Github_Action_Demo/workflows/Linux-wks/badge.svg)
