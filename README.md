@@ -10,3 +10,8 @@ Il présente les notions essentielles pour comprendre le fonctionnement de GitHu
 
 ![Test Deploy](https://github.com/omiossec/Meetup-20200408-FRPSG/workflows/docker-Azure-cicd/badge.svg)
 
+## Author 
+
+[Olivier Miossec](https://www.linkedin.com/in/omiossec/)
+MS Azure MVP
+Cloud Architect
