@@ -14,3 +14,14 @@ jobs:
         with:
           directory: arm
           template: storage.json
+
+      - name: "deploy to azure"
+        uses: ./psdeploy
+        with:
+          directory: arm
+          template: storage.json
+          appID: ${{ secrets.APPID }}
+          spSecret: ${{ secrets.SERVICEPRINCIPALSECRET }}
+          tenantID: ${{ secrets.TENNATID }}
+          subscriptionID: ${{ secrets.SUBSCRIPTIONID }}
+          resourceGroup: FRPSUG-DEMO-RG

@@ -12,7 +12,7 @@ if (test-path -path $ARMDir) {
 
     
 
-    if (($null -eq $Env:INPUT_DIRECTORY) -and (test-path -Path (join-path -Path $ARMDir -ChildPath "azuredeploy.json") -ErrorAction SilentlyContinue)) {
+    if (($null -eq $Env:INPUT_TEMPLATE) -and (test-path -Path (join-path -Path $ARMDir -ChildPath "azuredeploy.json") -ErrorAction SilentlyContinue)) {
 
         $TemplatePath = join-path -Path $ARMDir -ChildPath "azuredeploy.json"
 
